@@ -3,9 +3,10 @@ title: About
 titleTemplate: true
 
 lastUpdated: false
+aside: false
 ---
 
-# Hi :wave:, I'm Jacob
+# :wave: Hi
 
 ::: info Here's my journey so far...
 

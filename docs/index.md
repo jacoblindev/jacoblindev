@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: home
 
 hero:
@@ -11,14 +10,20 @@ hero:
     alt: Logo of J.L.Dev
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/what-is-vitepress
+      text: Frontend
+      link: /frontend/
+    - theme: brand
+      text: Backend
+      link: /backend/
+    - theme: brand
+      text: DevOps
+      link: /devops/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/jacoblindev/jacoblindev
 
 features:
-  - icon: ⚡️
+  - icon: 
     title: Vite, The DX that can't be beat
     details: Lorem ipsum...
   - icon: 🖖

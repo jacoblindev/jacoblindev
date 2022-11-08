@@ -15,20 +15,7 @@ export default {
 
     themeConfig: {
         logo: '/JLDev-Logo@2x.png',
-        nav: [
-            { text: 'About', link: '/about' },
-            { text: 'Frontend', link: '/frontend/' },
-            { text: 'Backend', link: '/backend/' },
-            { text: 'DevOps', link: '/devops/' },
-            {
-                text: 'Projects',
-                items: [
-                    { text: 'Item A', link: '/item-1' },
-                    { text: 'Item B', link: '/item-2' },
-                    { text: 'Item C', link: '/item-3' }
-                ]
-            }
-        ],
+        nav: nav(),
 
         socialLinks: [
             { icon: 'github', link: 'https://github.com/jacoblindev' },
@@ -42,4 +29,33 @@ export default {
         }
     }
 
+}
+
+function nav() {
+    return [
+        { text: 'About', link: '/about' },
+        { text: 'Frontend', link: '/frontend/' },
+        { text: 'Backend', link: '/backend/' },
+        { text: 'DevOps', link: '/devops/' },
+        {
+            text: 'Projects',
+            items: [
+                { text: 'FM Challenges', link: 'https://jacoblindev.github.io/vue-fm-challenges/' }
+            ]
+        }
+    ]
+}
+
+function sidebarConfig() {
+    return [
+        {
+            text: 'Config',
+            items: [
+                { text: 'Introduction', link: '/config/introduction' },
+                { text: 'App Configs', link: '/config/app-configs' },
+                { text: 'Theme Configs', link: '/config/theme-configs' },
+                { text: 'Frontmatter Configs', link: '/config/frontmatter-configs' }
+            ]
+        }
+    ]
 }

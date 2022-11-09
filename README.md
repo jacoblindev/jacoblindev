@@ -1,6 +1,6 @@
-# ![JLDev Logo](/docs/public/android-chrome-512x512.png)
+![JLDev Logo](/docs/public/the-neck-lookout.webp)
 
-## How I start my journey
+## How the journey start
 
 I started my coding journey back in **July 2019** with free online resources such as [freeCodeCamp](https://www.freecodecamp.org/learn), [W3Schools](https://www.w3schools.com/) & [MDN Web Docs](https://developer.mozilla.org/en-US/). I learned the basics of **Html, CSS & JavaScript** `console.log("Hello World!")` 👨🏻‍💻
 

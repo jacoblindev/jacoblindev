@@ -1,4 +1,4 @@
-# ![JLDev Logo](/docs/public/apple-touch-icon.png)
+# ![JLDev Logo](/docs/public/JLDev-Logo%402x.png)
 
 ## How I start my journey
 

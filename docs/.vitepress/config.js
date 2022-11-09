@@ -33,7 +33,6 @@ export default {
 
 function nav() {
     return [
-        { text: 'About', link: '/about' },
         { text: 'Frontend', link: '/frontend/' },
         { text: 'Backend', link: '/backend/' },
         { text: 'DevOps', link: '/devops/' },

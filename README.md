@@ -1,4 +1,4 @@
-# ![JLDev Logo](/docs/public/JLDev-Logo%402x.png)
+# ![JLDev Logo](/docs/public/android-chrome-512x512.png)
 
 ## How I start my journey
 
